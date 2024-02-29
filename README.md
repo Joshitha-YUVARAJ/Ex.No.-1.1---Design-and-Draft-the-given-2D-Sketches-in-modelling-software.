@@ -1,4 +1,7 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
+## NAME: YUVARAJ JOSHITHA
+## REFERENCE NUMBER: 23011447
+## DEPARTMENT:AIML
 
 ## AIM
 
@@ -42,6 +45,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![Screenshot 2024-02-29 153109](https://github.com/Joshitha-YUVARAJ/Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/145742770/35c14479-dd21-4c7e-92c5-02e4e8eaa147)
+
 
 
 ## RESULT
